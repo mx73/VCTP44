@@ -2,6 +2,5 @@
 
 Poster for 44th Vietnam Conference on Theoretical Physics (VCTP-44).
 
-Shor's Algorithm (modular multiplication) and Grover's Algorithm using Qiskit.
-
+Jupyter Notebooks for Shor's Algorithm (modular multiplication) and Grover's Algorithm using Qiskit.
 Some simple tests and Quantum Fourier Transform are included.
